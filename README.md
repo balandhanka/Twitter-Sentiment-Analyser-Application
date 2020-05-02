@@ -7,5 +7,5 @@ A python application which tweeter API to scrap the tweets an TextBlob to  analy
 # Result
 
 <p align="center">
-  <img src="https://github.com/balandhanka/Twitter-Sentiment-Analyser-Application/blob/master/sentiment.jpg" width="350" title="hover text">
+  <img src="https://github.com/balandhanka/Twitter-Sentiment-Analyser-Application/blob/master/sentiment.jpg" width="350" title="Sentiment Analyser App">
 </p>
