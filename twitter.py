@@ -41,10 +41,10 @@ def keyword_sentiment_analyzer(keyword, no_of_tweets):
     print("\n [INFO] Generating Authentications ....")
     
     # access credentials
-    api_key = 'ThrwT21XG9g6c7o2m6wO4Zahd'
-    api_secret_key = '0skYIZDWzVgWYTuuWEvCS7x9eDr4Jk3ACbkdBRgeHumgXDxeGT'
-    access_token  = '1253593770983120898-xri8WD2eo9fqhr6tsZgSt6FTmhrtRj'
-    access_token_secret = 'mxv6TknQXEGZKbYnb4urw0CWZqwEPW3bCDaVzPlYSPdGt'
+    api_key = 'your API key'
+    api_secret_key = 'your API SECRET key'
+    access_token  = 'your ACCESS TOKEN'
+    access_token_secret = 'your SECRET ACCESS TOKEN'
     
     # setting up authentication from twitter
     auth = OAuthHandler(api_key,api_secret_key)
